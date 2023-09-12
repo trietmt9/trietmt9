@@ -1,6 +1,6 @@
-## Hi this is Triet
+## Hi this is Triet 👋
 - I'm a student from Vietnam. I studied Electrical and Electronics engineering
-### Skills and Experiences
+### Skills and Experiences 📖⚡
   - 🖥️ Strong C/C++ programming language
   - 🔬 PCB Hardware Design 
   - 🚗 Experienced AUTOSAR programming (MCAL, BSW, RTE, ASW)
