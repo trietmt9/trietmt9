@@ -35,7 +35,6 @@
 <img align="left" alt="Qt" width="72px" style="padding-right:50px;" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
 <img align="left" alt="OpenCV" width="115px" style="padding-right:50px;" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img align="left" alt="Matplotlib" width="125px" style="padding-right:50px;" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-
 <br/>
 
 ### Operating Systems
