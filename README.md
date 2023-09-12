@@ -3,7 +3,7 @@
 
 ### Skills and Experiences
   - 🖥️ Strong C/C++ programming langues
-  - 🔬 Can albe to design Hardware PCB
+  - 🔬 Design Hardware PCB
   - 🚗 Experienced AUTOSAR programming
   - ✈️ UAV software and hardware design
   - 🦾 Prosthetics and EMG research for Biomedical Engineering projects (EMG signals proccessing, Signal control)
