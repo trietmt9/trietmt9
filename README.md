@@ -1,5 +1,6 @@
 ### Hi this is Triet
-- 🔭 I’m currently working on Embedded system projects
+- I'm a student from Vietnam who passionate in Embedded system 
+- 🔭 I’m currently working on Embedded system and AIoT projects
 - 🌱 My strong programming langues are C/C++, Python
 - 📫 How to reach me: minhtrietwork@gmail.com
   
