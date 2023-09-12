@@ -1,5 +1,6 @@
 ## Hi this is Triet 👋
 - I'm a student from Vietnam. I studied Electrical and Electronics engineering
+- I have a strong interest in Physics and Computer Engineering. Therefore, most of my works or projects are build from ground up. While build things from scratch I can learn a lot.
 ### Skills and Experiences 📖⚡
   - 🖥️ Strong C/C++ programming language
   - 🔬 PCB Hardware Design 
