@@ -7,7 +7,7 @@
   - 🚗 Experienced AUTOSAR programming (MCAL, BSW, RTE, ASW)
   - ✈️ UAV software and hardware design
   - 🦾 Prosthetics and EMG research in Biomedical Engineering projects (EMG signals proccessing, Signal control)
-  - 🤖 Mobile Robot design (Lidar, Motor, ROS,...)
+  - 🤖 Mobile Robot design (Lidar, Navigation, Mapping, ROS,...)
 
 ## My github Status 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trietmt9&show_icons=true&theme=tokyonight)
