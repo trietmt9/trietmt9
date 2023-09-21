@@ -10,7 +10,7 @@
   - 🤖 Mobile Robot design (Lidar, Navigation, Mapping, ROS,...)
   - 💻 Embedded Linux (Raspberry Pi, ROS)
 ## My experiences during study at university and building projects 
-### Education Spaces 
+### Education 
 <img align="left" alt="Udemy" width="92px" style="padding-right:50px;" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img align="left" alt="Codecademy" width="135px" style="padding-right:50px;" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
 <img align="left" alt="Freecodecamp" width="155px" style="padding-right:50px;" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
