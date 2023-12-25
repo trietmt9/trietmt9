@@ -31,17 +31,14 @@
 
 ### Platform, Frameworks
 <img align="left" alt="ROS" width="85px" style="padding-right:50px;" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
-<img align="left" alt="Pandas" width="115px" style="padding-right:50px;" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img align="left" alt="NumPy" width="107px" style="padding-right:50px;" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img align="left" alt="Qt" width="72px" style="padding-right:50px;" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
 <img align="left" alt="OpenCV" width="115px" style="padding-right:50px;" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img align="left" alt="Matplotlib" width="125px" style="padding-right:50px;" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+
 <br/>
 
 ### Operating Systems
 <img align="left" alt="Windows" width="135px" style="padding-right:50px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img align="left" alt="Ubuntu" width="118px" style="padding-right:50px;" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img align="left" alt="Debian" width="115px" style="padding-right:50px;" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
 <br/>
 
 ### My github Status 📊
