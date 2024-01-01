@@ -7,8 +7,8 @@
   - 🚗 Experienced AUTOSAR programming (MCAL, BSW, RTE, ASW)
   - ✈️ UAV firmware and hardware design
   - 🦾 Prosthetics and EMG research in Biomedical Engineering projects (EMG signals proccessing, Signal control)
-  - 🤖 Mobile Robot design (Lidar, Navigation, Mapping, ROS,...)
-  - 💻 Embedded Linux (Raspberry Pi, ROS)
+  - 🤖 Mobile Robot (Lidar, Navigation, Mapping, ROS,...)
+  - 💻 Embedded Linux (Raspberry Pi, Beagle Bone)
 ## My experiences during study at university and building projects 
 ### Education 
 <img align="left" alt="Udemy" width="92px" style="padding-right:50px;" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
