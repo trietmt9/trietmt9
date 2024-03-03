@@ -5,8 +5,8 @@
   - 🖥️ ✨Strong C/C++ programming language✨
   - 🔬 PCB Hardware Design 
   - 🚗 Experienced AUTOSAR programming (MCAL, BSW, RTE, ASW)
-  - ✈️ UAV firmware and hardware design
   - 🦾 Prosthetics and EMG research in Biomedical Engineering projects (EMG signals proccessing, Signal control)
+  - ✈️ UAV firmware and hardware design
   - 🤖 Mobile Robot (Lidar, Navigation, Mapping, ROS,...)
   - 💻 Embedded Linux (Raspberry Pi, Beagle Bone)
 ## My experiences during study at university and building projects 
