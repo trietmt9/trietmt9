@@ -1,6 +1,7 @@
 ## Hi this is Triet 👋
 - I'm a student from Vietnam. I studied Electrical and Electronics engineering. I have a strong interest in Robotics and Computer Engineering.
-- Most of my works or projects are build from ground up. 
+- Most of my works or projects are build from scratch.
+- I'm also have interest in medical tech such as medical sensor, Bionic Limbs,...
 ## Skills and Experiences 📖
   - 🖥️ ✨Strong C/C++ programming language✨
   - 🔬 PCB Hardware Design 
