@@ -1,23 +1,23 @@
-## Hi this is Triet 👋
-- I'm a student from Vietnam. I studied Electrical and Electronics engineering. I have a strong interest in Robotics and Computer Engineering.
-- Most of my works or projects are build from scratch.
-- I'm also have interest in medical tech such as medical sensor, Bionic Limbs,...
-## Skills and Experiences 📖
-  - 🖥️ ✨Strong C/C++ programming language✨
-  - 🔬 PCB Hardware Design 
-  - 🚗 Experienced AUTOSAR programming (MCAL, BSW, RTE, ASW)
-  - 🦾 Prosthetics and EMG research in Biomedical Engineering projects (EMG signals proccessing, Signal control)
-  - ✈️ UAV firmware and hardware design
-  - 🤖 Mobile Robot (Lidar, Mapping, ROS,...)
-  - 💻 Embedded Linux (Raspberry Pi, Beagle Bone)
-## My experiences during study at university and building projects 
+## Hi, I'm Triet 👋
+- Electrical and Electronics Engineering student from Vietnam with a strong passion for Robotics and Computer Engineering.
+- Experienced in building projects from scratch, focusing on embedded systems, autonomous vehicles, and robotics applications.
+- Research interests include medical technology, biomedical sensors, and bionic limb development.
+## Skills and Expertise 📖
+  - 🖥️ **Strong C/C++ Programming** - Embedded systems development and low-level programming
+  - 🔬 **PCB Hardware Design** - Circuit design and layout for embedded applications
+  - 🚗 **AUTOSAR Architecture** - Automotive software development (MCAL, BSW, RTE, ASW)
+  - 🦾 **Biomedical Engineering** - Prosthetics, EMG signal processing, and control systems research
+  - ✈️ **UAV Development** - Firmware and hardware design for unmanned aerial vehicles
+  - 🤖 **Mobile Robotics** - LiDAR integration, SLAM, autonomous navigation with ROS
+  - 💻 **Embedded Linux** - Linux-based embedded systems (Raspberry Pi, BeagleBone)
+## Technical Stack 
 ### Education 
 <img align="left" alt="Udemy" width="92px" style="padding-right:50px;" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img align="left" alt="Codecademy" width="135px" style="padding-right:50px;" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
 <img align="left" alt="Freecodecamp" width="155px" style="padding-right:50px;" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
 <br/>
 
-### Progarmming Languages
+### Programming Languages
 <img align="left" alt="C" width="55px" style="padding-right:50px;" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="left" alt="C++" width="76px" style="padding-right:50px;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="left" alt="Python" width="104px" style="padding-right:50px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -42,7 +42,7 @@
 <img align="left" alt="Ubuntu" width="118px" style="padding-right:50px;" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <br/>
 
-### My github Status 📊
+### GitHub Statistics 📊
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=trietmt9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trietmt9&layout=compact)
 
