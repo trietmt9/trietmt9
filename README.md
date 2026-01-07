@@ -1,5 +1,5 @@
 ## Hi, I'm Triet 👋
-- Electrical and Electronics Engineering student from Vietnam with a strong passion for Robotics and Computer Engineering.
+- Embedded system engineer from Vietnam with a strong passion for Robotics and Computer Engineering.
 - Experienced in building projects from scratch, focusing on embedded systems, autonomous vehicles, and robotics applications.
 - Research interests include medical technology, biomedical sensors, and bionic limb development.
 ## Skills and Expertise 📖
@@ -43,6 +43,7 @@
 <br/>
 
 ### GitHub Statistics 📊
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=trietmt9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trietmt9&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trietmt9&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trietmt9&layout=compact&theme=radical&cache_seconds=1800)
 
