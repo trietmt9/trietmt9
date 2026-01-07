@@ -41,7 +41,7 @@
 <br/>
 
 ### GitHub Statistics 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trietmt9&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=trietmt9&show_icons=true&theme=radical)](https://github.com/trietmt9/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trietmt9&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trietmt9&layout=compact&theme=radical)](https://github.com/trietmt9/github-readme-stats)
 
