@@ -5,11 +5,9 @@
 ## Skills and Expertise 📖
   - 🖥️ **Strong C/C++ Programming** - Embedded systems development and low-level programming
   - 🔬 **PCB Hardware Design** - Circuit design and layout for embedded applications
-  - 🚗 **AUTOSAR Architecture** - Automotive software development (MCAL, BSW, RTE, ASW)
   - 🦾 **Biomedical Engineering** - Prosthetics, EMG signal processing, and control systems research
   - ✈️ **UAV Development** - Firmware and hardware design for unmanned aerial vehicles
   - 🤖 **Mobile Robotics** - LiDAR integration, SLAM, autonomous navigation with ROS
-  - 💻 **Embedded Linux** - Linux-based embedded systems (Raspberry Pi, BeagleBone)
 ## Technical Stack 
 ### Education 
 <img align="left" alt="Udemy" width="92px" style="padding-right:50px;" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
